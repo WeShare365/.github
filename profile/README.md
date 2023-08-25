@@ -1,4 +1,3 @@
-Of course! Here's an addition to the `README.md` with a section about the design:
 # My First Year Apprentice Project 🚀
 
 Hello there! 👋 My name is David Suter and this website represents a significant milestone in my journey. Developed during my first year as an apprentice, I dedicated 10 days spread over 10 weeks to bring this project to life. The experience was both challenging and rewarding, and I'm excited to share it with you!
